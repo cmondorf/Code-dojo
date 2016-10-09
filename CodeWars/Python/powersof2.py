@@ -7,8 +7,9 @@ def powers_of_two(n):
     return powers_of_two
 
 
-print powers_of_two(4)
 
-# 
+print(powers_of_two(4))
+
+#
 # def powers_of_two(n):
 #     return [2**x for x in range(n+1)]
