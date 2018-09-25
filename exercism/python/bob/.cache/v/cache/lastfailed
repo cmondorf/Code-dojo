@@ -1,0 +1,4 @@
+{
+  "bob_test.py::BobTest::test_alternate_silence": true,
+  "bob_test.py::BobTest::test_other_whitespace": true
+}
