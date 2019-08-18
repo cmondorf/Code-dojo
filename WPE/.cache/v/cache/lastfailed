@@ -1,0 +1,15 @@
+{
+  "test_myrange.py::test_myrange2[10-20-2-output3]": true,
+  "test_myrange.py::test_myrange2[10-20-3-output4]": true,
+  "test_myrange.py::test_myrange2[10-20-None-output1]": true,
+  "test_myrange.py::test_myrange2[10-None-None-output0]": true,
+  "test_myrange.py::test_myrange2[20-10-None-output2]": true,
+  "test_myrange.py::test_myrange2_is_a_list": true,
+  "test_myrange.py::test_myrange3[10-20-2-output3]": true,
+  "test_myrange.py::test_myrange3[10-20-3-output4]": true,
+  "test_myrange.py::test_myrange3[10-20-None-output1]": true,
+  "test_myrange.py::test_myrange3[10-None-None-output0]": true,
+  "test_myrange.py::test_myrange3[20-10-None-output2]": true,
+  "test_myrange.py::test_myrange3_is_a_generator": true,
+  "test_travel.py": true
+}
