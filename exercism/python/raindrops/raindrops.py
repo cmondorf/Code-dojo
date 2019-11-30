@@ -11,6 +11,6 @@ def convert(number):
         return_string += 'Plang'
     if number % 7 == 0:
         return_string += 'Plong'
-    if len(return_string) == 0:
+    if not return_string:
         return_string = str(number)
     return return_string
