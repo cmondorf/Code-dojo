@@ -15,4 +15,7 @@ CHOICE = None
 
 
 def score(dice, category):
+    # dice will be a list
+    # always 5 values, in range 1 to 6
+    # values won't necessarily be ordered
     pass
